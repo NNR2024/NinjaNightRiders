@@ -32,8 +32,3 @@ public class LoggerLoad {
 		logger.debug(message);
 		}
 	}
-
-
-
-
-
