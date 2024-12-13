@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+target/
+test-output
+allure-results/
+logs/
+=======
+/target/
+>>>>>>> Stashed changes
